@@ -7,7 +7,7 @@ Video summarization is to generate a short summary of the content of a longer vi
           This application provides an efficient and reliable tool to generate and analyze YouTube Video summaries in a fast and effective manner.
 
 
-## APPLICATION REQUIREMENTS
+## Application Requirements
 
 ### 1. Get transcript for a given video
 
